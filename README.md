@@ -1,12 +1,12 @@
 <h1 align="center">Hey, We're Web Ripple</h1>
 <h3 align="center">A small, mighty squad of web wizards 🧙‍♂️ conjuring digital wonders! We sprinkle creativity like confetti, weaving webs that wink, nudge, and wow. Step into our playground of pixels 🎨 where designs dance and ideas frolic freely!</h3>
 
-- Services we provide :
-  -- Portfolio site design [Trust me , better than a resume 😉]
-  -- Landing Page [We'll make sure your product stands out! 🏆]
-  -- Information/Product Site [Looking to market yourself on the internet , We'll help you launch🚀]
-  -- Email Marketing [Prepare for an eye-catching email that won't end up in the spambox 💌✨ Our message is crafted creatively and guaranteed to catch your attention! 🌟]
-  -- Portfolio site design [Trust me , better than a resume 😉]
+- Services we provide : <br>
+  >> Portfolio site design [Trust me , better than a resume 😉] <br>
+  >> Landing Page [We'll make sure your product stands out! 🏆] <br>
+  >> Information/Product Site [Looking to market yourself on the internet , We'll help you launch🚀] <br>
+  >> Email Marketing [Prepare for an eye-catching email that won't end up in the spambox 💌✨ Our message is crafted creatively and guaranteed to catch your attention! 🌟] <br>
+  >> Portfolio site design [Trust me , better than a resume 😉] <br>
 
 - 📫 How to reach us **webripple.designs@gmail.com**
 
